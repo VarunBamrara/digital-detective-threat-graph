@@ -1,3 +1,7 @@
 streamlit
-torch
+pandas
 plotly
+pyvis
+networkx
+groq
+neo4j
